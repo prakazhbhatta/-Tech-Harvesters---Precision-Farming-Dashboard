@@ -1,0 +1,16 @@
+# Basic requirements for a chat-enabled web project
+# If using only HTML/JS/CSS, no Python dependencies are needed.
+# If you want to add a backend (e.g., Flask + SocketIO for real-time chat), use the following:
+Flask>=2.0
+Flask-SocketIO>=5.0
+
+# If you plan to use React for the frontend, dependencies are managed in package.json, not here.
+
+requests>=2.0
+google-api-python-client>=2.0
+pandas>=1.0
+
+flask
+torch
+torchvision
+pillow 
